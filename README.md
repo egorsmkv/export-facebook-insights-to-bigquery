@@ -43,5 +43,5 @@ That's it. Enjoy!
 
 ## Possible improvements
 
-- [ ] Only one SQL query at the end
-- [ ] `MERGE` operation, with staged table
+- [ ] Only one SQL execution at the end of the script or after processing each campaign
+- [ ] `MERGE` operation, with a staged table
