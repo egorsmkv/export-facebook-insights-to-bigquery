@@ -1,0 +1,9 @@
+bigquery_table = 'your_project.your_dataset.insights'
+
+fb_ad_account = '***'
+
+fb_app_id = '***'
+fb_app_secret = '***'
+fb_access_token = '***'
+
+date_preset = 'maximum'

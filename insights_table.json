@@ -1,0 +1,52 @@
+[
+    {
+      "mode": "REQUIRED",
+      "name": "ad_id",
+      "type": "STRING"
+    },
+    {
+      "mode": "REQUIRED",
+      "name": "adset_id",
+      "type": "STRING"
+    },
+    {
+      "mode": "REQUIRED",
+      "name": "campaign_id",
+      "type": "STRING"
+    },
+    {
+      "mode": "REQUIRED",
+      "name": "impressions",
+      "type": "INTEGER"
+    },
+    {
+      "mode": "REQUIRED",
+      "name": "spend",
+      "type": "NUMERIC"
+    },
+    {
+      "mode": "REQUIRED",
+      "name": "reach",
+      "type": "INTEGER"
+    },
+    {
+        "mode": "REQUIRED",
+        "name": "clicks",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "REQUIRED",
+        "name": "conversions",
+        "type": "INTEGER"
+      },
+    {
+      "mode": "REQUIRED",
+      "name": "date_start",
+      "type": "DATE"
+    },
+    {
+      "mode": "REQUIRED",
+      "name": "date_stop",
+      "type": "DATE"
+    }
+]
