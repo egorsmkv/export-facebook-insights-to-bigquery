@@ -40,3 +40,8 @@ After running the script you must see something like this:
 ## Final
 
 That's it. Enjoy!
+
+## Possible improvements
+
+- [ ] Only one SQL query at the end
+- [ ] `MERGE` operation, with staged table
